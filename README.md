@@ -15,9 +15,11 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/shweta-kamal-105880219/" target="blank"><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="https://www.linkedin.com/in/shweta-kamal-105880219/" height="40" width="40" /></a>
-<a href="https://leetcode.com/aniloum_22/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="https://leetcode.com/aniloum_22/" height="40" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/pmoulina76/profile" target="blank"><img align="center" src="https://img.icons8.com/color/452/GeeksforGeeks.png" alt="pmoulina76" height="40" width="40" /></a>
-<a href="http://moulinapradhan.herokuapp.com/" target="blank"><img align="center" src="https://meetup.github.io/swarm-design-system/assets/contentImages/brandAssets/swarmLogo_knockout_red.svg" alt="http://moulinapradhan.herokuapp.com/" height="40" width="40" /></a>
+
+  <a href="https://leetcode.com/shwetakamal1679/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="https://leetcode.com/shwetakamal1679/" height="40" width="40" /></a>
+
+  <a href="https://auth.geeksforgeeks.org/user/kamalshweta9/" target="blank"><img align="center" src="https://img.icons8.com/color/452/GeeksforGeeks.png" alt="https://auth.geeksforgeeks.org/user/kamalshweta9/" height="40" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://meetup.github.io/swarm-design-system/assets/contentImages/brandAssets/swarmLogo_knockout_red.svg" alt="" height="40" width="40" /></a>
   
 </p>
 </div>
@@ -34,9 +36,9 @@
   <a href="https://redux.js.org" target="_blank"> <img src="https://img.favpng.com/6/2/11/redux-react-javascript-freecodecamp-npm-png-favpng-6F2x50visKuC0trBQ0952Cm1E_t.jpg" alt="redux" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moulinapradhan&show_icons=true&locale=en&layout=compact" alt="moulinapradhan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rmv4714&show_icons=true&locale=en&layout=compact" alt="rmv4714" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moulinapradhan&show_icons=true&locale=en" alt="moulinapradhan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rmv4714&show_icons=true&locale=en" alt="rmv4714" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moulinapradhan&" alt="moulinapradhan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rmv4714&" alt="rmv4714" /></p>
 
