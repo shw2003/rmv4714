@@ -19,7 +19,7 @@
   <a href="https://leetcode.com/shwetakamal1679/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="https://leetcode.com/shwetakamal1679/" height="40" width="40" /></a>
 
   <a href="https://auth.geeksforgeeks.org/user/kamalshweta9/" target="blank"><img align="center" src="https://img.icons8.com/color/452/GeeksforGeeks.png" alt="https://auth.geeksforgeeks.org/user/kamalshweta9/" height="40" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://meetup.github.io/swarm-design-system/assets/contentImages/brandAssets/swarmLogo_knockout_red.svg" alt="" height="40" width="40" /></a>
+<a href="https://shweta-kamal.netlify.app/" target="blank"><img align="center" src="https://meetup.github.io/swarm-design-system/assets/contentImages/brandAssets/swarmLogo_knockout_red.svg" alt="" height="40" width="40" /></a>
   
 </p>
 </div>
