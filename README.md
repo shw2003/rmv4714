@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**rmv4714/rmv4714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 [![MasterHead](Pic4%20(1).jpg)](https://github.com/MoulinaPradhan)
 <h1 align="center">I'm Shweta Kamal</h1>
 <h3 align="center">A passionate Learner😎</h3>
