@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetakamal&label=Profile%20views&color=0e75b6&style=flat" alt="shwetakamal" /> </p>
 <img align="right" alt="Coding" width="400" style="border: 2px solid red"; src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47bfvookwtrs33qyqccb8f726zxqowovz2y84r2q1c&rid=giphy.gif">
 
-- 🌱 I’m currently learning **backend**
+- 🌱 I’m currently learning **frontend**
 
 - 📫 How to reach me **shwetakamal4714@gmail.com**
 
