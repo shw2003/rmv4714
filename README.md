@@ -14,7 +14,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/shweta-kamal-105880219/" target="blank"><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="https://www.linkedin.com/in/shweta-kamal-105880219/" height="40" width="40" /></a> <a href="https://leetcode.com/shwetakamal1679/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="https://leetcode.com/shwetakamal1679/" height="40" width="40" /></a><a href="https://auth.geeksforgeeks.org/user/kamalshweta9/" target="blank"><img align="center" src="https://img.icons8.com/color/452/GeeksforGeeks.png" alt="https://auth.geeksforgeeks.org/user/kamalshweta9/" height="40" width="40" /></a><a href="https://my-portfolio-pi-dusky-33.vercel.app/" target="blank"><img align="center" src="https://meetup.github.io/swarm-design-system/assets/contentImages/brandAssets/swarmLogo_knockout_red.svg" alt="" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/shweta-kamal-105880219/" target="blank"><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="https://www.linkedin.com/in/shweta-kamal-105880219/" height="40" width="40" /></a> 
+
+<a href="https://leetcode.com/rmv4714/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="https://leetcode.com/rmv4714/" height="40" width="40" /></a>
+
+<a href="https://auth.geeksforgeeks.org/user/kamalshweta9/" target="blank"><img align="center" src="https://img.icons8.com/color/452/GeeksforGeeks.png" alt="https://auth.geeksforgeeks.org/user/kamalshweta9/" height="40" width="40" /></a>
+
+<a href="https://my-portfolio-pi-dusky-33.vercel.app/" target="blank"><img align="center" src="https://meetup.github.io/swarm-design-system/assets/contentImages/brandAssets/swarmLogo_knockout_red.svg" alt="https://my-portfolio-pi-dusky-33.vercel.app/" height="40" width="40" /></a>
   
 </p>
 </div>
